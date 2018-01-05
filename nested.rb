@@ -84,7 +84,10 @@ def adding_matz
         }
      }
 
-temp_hash = {}
+yukihiro_matsumoto = {}
+yukihiro_matsumoto[:known_for] = "Ruby"
+yukihiro_matsumoto[:languages] = []
+yukihiro_matsumoto[:languages] << "LISP", "C"
 
 
 #   :known_for => "Ruby",
