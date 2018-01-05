@@ -1,4 +1,3 @@
-require 'pry'
 def hopper
 	programmer_hash = 
  		{
@@ -88,7 +87,7 @@ yukihiro_matsumoto = {}
 yukihiro_matsumoto[:known_for] = "Ruby"
 yukihiro_matsumoto[:languages] = ["LISP", "C"]
 programmer_hash[:yukihiro_matsumoto] = yukihiro_matsumoto
-binding.pry
+
 programmer_hash
     
 end
