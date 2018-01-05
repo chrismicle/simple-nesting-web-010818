@@ -88,7 +88,7 @@ yukihiro_matsumoto = {}
 yukihiro_matsumoto[:known_for] = "Ruby"
 yukihiro_matsumoto[:languages] = []
 yukihiro_matsumoto[:languages] << "LISP", "C"
-programmer_hash.merge![]
+programmer_hash.merge!(yukihiro_matsumoto)
 
 #   :known_for => "Ruby",
 #    :languages => ["LISP", "C"]
